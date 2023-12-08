@@ -1,0 +1,22 @@
+{
+  "name": "snakegame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ak8ar12ullah/SnakeGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ak8ar12ullah/SnakeGame/issues"
+  },
+  "homepage": "https://github.com/ak8ar12ullah/SnakeGame#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
